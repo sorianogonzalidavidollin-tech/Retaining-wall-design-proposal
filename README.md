@@ -3,29 +3,49 @@ Structural design and construction of a reinforced concrete retaining wall under
 
 INDEX
 Retaining-wall-design-proposal
+
 Summary	1
+
 1.0   Brief description of the design criteria and project overview.	2
+
 2.0   Sliding stability review.	2
+
 3.0   Overturning stability review.	3
+
 4.0   Retaining wall design:	4
+
 4.2   Transverse reinforcement verification.	5
+
 4.3   Shear verification using FEM.	6
+
 5.0  Conclusions	7
+
 6.0  Annexes	7
 
 Summary
 
 Project: Retaining Wall Design and Construction
+
 Location: La Florida 3
+
 This project involves the structural design and construction of a reinforced concrete retaining wall subjected to lateral earth pressure and surcharge loads from an adjacent structure.
+
 My Role:
+
 Structural design, stability verification, and site supervision.
+
 Key Results:
+
 •	Sliding FS = 2.7 (≥ 1.5 required) 
+
 •	Overturning FS > 2.0 
+
 •	Shear stress < 0.1 f′c 
+
 •	Design compliant with NTC provisions and successfully constructed 
+
 Engineering Value:
+
 Integration of structural analysis and field execution to deliver a safe and efficient solution.
 
 
