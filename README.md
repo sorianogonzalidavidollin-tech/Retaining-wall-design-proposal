@@ -12,7 +12,9 @@ Summary	1
 
 3.0   Overturning stability review.	3
 
-4.0   Retaining wall design:	4
+4.0   Retaining wall design:	
+
+4.1 Longitudinal reinforcement verification.
 
 4.2   Transverse reinforcement verification.	5
 
